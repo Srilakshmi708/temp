@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hello! I'm Aryan</h1>
+      <h1>Hello! I'm Sravanthi</h1>
       <button onClick={() => setShowMessage(!showMessage)}>
         Click Me!
       </button>
